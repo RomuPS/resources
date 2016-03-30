@@ -1,4 +1,4 @@
 # Resources
 
-Some cheat sheets
+Some cheat sheets for Git and GitHub
 
